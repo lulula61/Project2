@@ -186,7 +186,7 @@ int main()
 ```
 
 ### 2.5 Run Results
-The results is :
+The results is :  
 ![mem_test](mem_test_run_result.png, "Mem_test Result")
 
 
